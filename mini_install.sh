@@ -7,7 +7,7 @@ echo "#############################################################"
 
 cd /tmp
 rm -f shadowsocks_mini.tar.gz
-wget http://okss.tk/xiaomi/mini/shadowsocks_mini.tar.gz
+wget http://7xszpx.com1.z0.glb.clouddn.com/shadowsocks_mini.tar.gz
 tar zxf shadowsocks_mini.tar.gz
 
 # install shadowsocks ss-redir to /data/usr/sbin
